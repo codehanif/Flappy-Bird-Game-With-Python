@@ -2,7 +2,7 @@
 
 ## Installation
 
-Install my-project with npm
+make sure python was installed on your system
 
 ```bash
   python install pygame
